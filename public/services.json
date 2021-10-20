@@ -1,0 +1,48 @@
+
+[
+
+    {
+        "id": 1,
+        "name": "Virtual Care",
+        "cost": "80",
+        "description": "Warren Clinic offers virtual visits for your convenience. Available for both new and current patients",
+        "img": "https://i.ibb.co/T4xjfmL/virtual-care-mother-and-baby.png"
+        
+    },
+    {
+        "id": 2,
+        "name": "Dental Surgery",
+        "cost": "800",
+        "description": "Dental surgery is any of a number of medical procedures that involve artificially modifying dentition; in other words",
+        "img": "https://i.ibb.co/LCRjfYL/jonathan-borba-hl6u-G9c-HW5-A-unsplash.png"
+    },
+    {
+        "id": 3,
+        "name": "CT SCAN",
+        "cost": "1000",
+        "description": "Computed tomography (CT) scan is a useful diagnostic tool for detecting diseases and injuries. It uses a series of X-rays",
+        "img": "https://i.ibb.co/Lp6kGKZ/PET-Scan.png"
+    },
+    {
+        "id": 4,
+        "name": "Family Welfare",
+        "cost": "100",
+        "description": "Even though large families were the norm in early India, religious leaders encouraged small family size",
+        "img": "https://i.ibb.co/P5M17s1/family-love-logo-vector-34023965.png"
+    },
+    {
+        "id": 5,
+        "name": "Contraception",
+        "cost": "150",
+        "description": "These products work by killing sperm and come in several forms—foam, gel, cream, film, suppository, or tablet",
+        "img": "https://i.ibb.co/595qYfZ/Emerg-Contraception-01.png"
+    },
+    {
+        "id": 6,
+        "name": "Sterilization",
+        "cost": "250",
+        "description": "Sterilization refers to any process that removes, kills, or deactivates all forms of life (in particular referring ",
+        "img": "https://i.ibb.co/XF84bH6/yvgmb5iae5.png"
+    }
+   
+]

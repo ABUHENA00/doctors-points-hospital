@@ -1,0 +1,60 @@
+
+[
+
+    {
+        "_id": 1,
+        "name": "CARDIOLOGY",
+        "description": "The field includes medical diagnosis and treatment of congenital heart defects, coronary artery disease, heart failure, valvular heart disease",
+        "fee":1500,
+        "img": "https://i.ibb.co/GQ3Vjwv/elderly-woman-doctor-appointment-modern-private-clinic-while-she-sitts-hospital-bed-physician-is-lis.png"
+        
+    },
+    
+    {
+        "_id": 2,
+        "name": "UROLOGY ",
+        "description": "Urology is a part of health care that deals with diseases of the male and female urinary tract (kidneys, ureters, bladder and urethra)",
+        "fee":500,
+        "img": "https://i.ibb.co/8cSBxKc/kidney-logo-urology-logo-412311-3698.png"
+        
+    },
+    
+    {
+        "_id": 3,
+        "name": "NEUROSURGERY",
+        "description": "Neurosurgery or neurological surgery, known in common parlance as brain surgery, is the medical specialty concerned with the prevention",
+        "fee":1000,
+        "img": "https://i.ibb.co/RNPhnVL/robot-surgeon-hologram-human-brain-medical-equipment-neurosurgery-modern-medicine-technology-3d-rend.png"
+        
+    },
+    
+    {
+        "_id": 4,
+        "name": "VASCULAR SURGERY",
+        "description": "Vascular surgery is a surgical subspecialty in which diseases of the vascular system, or arteries, veins and lymphatic circulation",
+        "fee":1300,
+        "img": "https://i.ibb.co/JzjKTVN/vein-thrombosis-varicose-treatment-concept-doctor-examining-huge-foot-diagnosis-blood-vessels-veins.png"
+        
+    },
+    
+    {
+        "_id": 5,
+        "name": "ONCOLOGY",
+        "description": "Oncology is the study of cancer. An oncologist is a doctor who treats cancer and provides medical care for a person",
+        "fee":2500,
+        "img": "https://i.ibb.co/4MbRBRL/oncological-patients-undergoing-intravenous-chemotherapy-infusion-cancer-treatment-administrated-by.png"
+        
+    },
+    
+    {
+        "_id": 6,
+        "name": "ICU",
+        "description": "Intensive care units (ICUs) are specialist hospital wards that provide treatment and monitoring for people who are very ill.",
+        "fee":5000,
+        "img": "https://i.ibb.co/GxCB9QK/hospital-scene-with-sick-patient-bed-white-background-1308-42296.png"
+        
+    }
+    
+   
+    
+]

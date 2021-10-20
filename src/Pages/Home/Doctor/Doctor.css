@@ -1,0 +1,21 @@
+.text{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+  }
+  .name-text{
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  .doctor{
+      background-color: rgb(224, 245, 245);
+      border-radius:25px ;
+  }
+  .doctor img{
+      width: 100%;
+     
+  }
+  
+  .doctor:hover{
+    background-color: rgb(212, 247, 212);
+  }

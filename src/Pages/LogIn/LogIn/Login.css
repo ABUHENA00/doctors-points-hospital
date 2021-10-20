@@ -1,0 +1,19 @@
+.log-in{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.padding{
+    padding: 8px;
+    border-radius: 5px;
+    width: 70%;
+    
+}
+
+.btn-submit{
+ background-color: tomato;
+ color: wheat;
+ padding: 10px;
+ border-radius: 10px;
+}

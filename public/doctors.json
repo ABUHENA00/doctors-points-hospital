@@ -1,0 +1,65 @@
+
+
+[
+
+    {
+        "_id": 1,
+        "name": "PROF DR ABDULLAH AL",
+        "title": "MBBS, D.CARD, MD (CARD), FACC, FRCP, FESC",
+        "description": "Former Director & Professor, National Institute of Cardiovascular Diseases (NICVD)",
+        "fee":1500,
+        "img": "https://i.ibb.co/7yVcFnz/young-attractive-handsome-guy-feels-delighted-gladden-amazed-295783-535.png"
+        
+    },
+    
+    {
+        "_id": 2,
+        "name": "PROF. DR. MIR JAMAL UDDIN",
+        "title": "MD (CARD), DEM, FACC (USA), FRCP (EDIN)",
+        "description": "Clinical & Interventional Cardiologist . Director & Professor, National Institute of Cardiovascular Diseases (NICVD)",
+        "fee":1600,
+        "img": "https://i.ibb.co/Cz1kGPZ/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-ta.png"
+        
+    },
+    
+    {
+        "_id": 3,
+        "name": "PROF. DR. MD. AFZALUR RAHMAN",
+        "title": "MBBS, D.CARD, MD (CARD)",
+        "description": "Clinical & Interventional Cardiologist",
+        "fee":1000,
+        "img": "https://i.ibb.co/4FzYkRb/stylish-handsome-indian-man-tshirt-pastel-wall-496169-1571.png"
+        
+    },
+    
+    {
+        "_id": 4,
+        "name":"PROF. DR. MD. KHALED MOHSIN",
+        "title": "MBBS (GOLD MEDALIST, DMC), MRCP, MD (NICVD), MSC-IN-CARDIOLOGY (IRELAND)",
+        "description": " Professor, National Institute of Cardiovascular Diseases (NICVD)",
+        "fee":1200,
+        "img": "https://i.ibb.co/rwNgyHr/studio-shot-ginger-hipster-with-thick-beard-trendy-haircut-has-serious-expression-points-with-index.png"
+        
+    },
+    
+    {
+        "_id": 5,
+        "name": "DR. ABDUL MOMEN",
+        "title": "MBBS (HONS.), FCPS (MEDICINE), MD (CARDIOLOGY)",
+        "description": "Associate Professor of Cardiology, National Institute of Cardiovascular Diseases (NIC)",
+        "fee":800,
+        "img": "https://i.ibb.co/7GLZCx7/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-we.png"
+        
+    },
+    
+    {
+        "_id": 6,
+        "name": "DR. MOHAMMAD ULLAH FIROZE",
+        "title": "MBBS, MD, FCPS, FACC",
+        "description": "Associate Professor, Department of Cardiology, National Institute of Cardiovascular Diseases",
+        "fee":500,
+        "img": "https://i.ibb.co/cyxQswd/handsome-businessman-suit-glasses-cross-arms-chest-look-176420-21750.png"
+        
+    }
+    
+]
