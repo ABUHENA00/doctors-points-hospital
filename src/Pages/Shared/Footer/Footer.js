@@ -21,7 +21,7 @@ const Footer = () => {
             <div className="footer-container">
                 <div className="container">
                     <div className="row">
-                        <div className="col-md-5  ">
+                        <div className="col-md-5 footer-responsive ">
                             <div className="left-container text-start">
                                 <h1>DOCTORS POINT'S HOSPITAL LTD.</h1>
                                    <div className="icons-container d-flex text-center">
@@ -49,7 +49,7 @@ const Footer = () => {
                                  </p>
                             </div>
                         </div>
-                        <div className="col-md-2">
+                        <div className="col-md-2 footer-responsive">
                             <div className="footer-menu-container">
                                 <ul>
                                 <li className="footer-menu">Home</li>
@@ -62,7 +62,7 @@ const Footer = () => {
                                 </ul>
                             </div>
                         </div>
-                          <div className="col-md-5">
+                          <div className="col-md-5 footer-responsive">
                               <div className="right-footer-container">
                               <h3>Sign up for Doctor Appointments</h3>
                               <input
